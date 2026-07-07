@@ -9,4 +9,4 @@ An enterprise-grade, fully managed NoSQL cloud database using advanced single-ta
 * **Optimized Partition Key Architecture:** Uses high-entropy unique email string addresses as the Partition Key to guarantee uniform storage partition load balancing across physical cloud data sectors.
 
 ### Production Database Identifier
-* **AWS Production Database Table ARN:** arn:aws:dynamodb:eu-north-1:194130477087:table/Interns
+* **AWS Production Database Table ARN:** (arn:aws:dynamodb:eu-north-1:194130477087:table/Interns)
